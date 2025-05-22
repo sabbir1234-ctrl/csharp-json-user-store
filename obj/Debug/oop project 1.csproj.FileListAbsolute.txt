@@ -1,0 +1,10 @@
+C:\Users\sabbi\source\repos\oop project 1\oop project 1\obj\Debug\oop project 1.csproj.AssemblyReference.cache
+C:\Users\sabbi\source\repos\oop project 1\oop project 1\obj\Debug\oop project 1.csproj.CoreCompileInputs.cache
+C:\Users\sabbi\source\repos\oop project 1\oop project 1\bin\Debug\oop project 1.exe.config
+C:\Users\sabbi\source\repos\oop project 1\oop project 1\bin\Debug\oop project 1.exe
+C:\Users\sabbi\source\repos\oop project 1\oop project 1\bin\Debug\oop project 1.pdb
+C:\Users\sabbi\source\repos\oop project 1\oop project 1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sabbi\source\repos\oop project 1\oop project 1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sabbi\source\repos\oop project 1\oop project 1\obj\Debug\oop proj.3EF5B45C.Up2Date
+C:\Users\sabbi\source\repos\oop project 1\oop project 1\obj\Debug\oop project 1.exe
+C:\Users\sabbi\source\repos\oop project 1\oop project 1\obj\Debug\oop project 1.pdb
